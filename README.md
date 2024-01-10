@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @aguedaaltaria
+- 👀 I’m interested in programming in html and css, I play some violin and piano 
+- 🌱 I’m currently learning HTML, JS, CSS and I looking forward to learn more languages
+- 💞️ I’m looking to collaborate on helping others to learn, as well as being teached by others
+- 😄 Pronouns: she/her
